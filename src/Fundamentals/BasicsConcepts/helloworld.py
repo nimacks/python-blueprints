@@ -16,4 +16,7 @@ print(message)
 
 li = [9, 3, 2, 10]
 
+li.append(12)
+li.append(13)
+
 print(li)
