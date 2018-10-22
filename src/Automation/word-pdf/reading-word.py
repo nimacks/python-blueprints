@@ -3,6 +3,6 @@ import os
 # MAC 
 # document = Document('/Users/samuelmensah/bulletin.docx')
 # WINDOWS 
-document = Document('/Users/samuelmensah/bulletin.docx')
+document = Document('bulletin2.docx')
 for p in document.paragraphs:
     print (p.text)
