@@ -49,7 +49,7 @@ fido.bark()
 Classes can also have class attributes, created by assigning variables within the body of the class. 
 These can be accessed either from instances of the class, or the class itself.
 """
-class Dog:
+""" class Dogs:
     legs=4
     def __init__(self,name,color):
         self.name = name
@@ -57,4 +57,4 @@ class Dog:
 
 fido = Dog("Fido","Yellow")
 print(fido.legs)
-print(fido.name)
+print(fido.name) """

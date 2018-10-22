@@ -44,7 +44,8 @@ nums = {1:"one",2:"two"}
 
 #print(nums.get(1))
 
-pairs = {1: "apple",
+pairs = {
+        3: "apple",
          "orange": [2, 3, 4],
          True: False,
          None: "True",
